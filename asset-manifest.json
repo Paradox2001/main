@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Paradox2001.github.io/main/static/css/main.c66e4d3d.css",
-    "main.js": "/Paradox2001.github.io/main/static/js/main.efdc6cb7.js",
-    "static/media/background.jpg": "/Paradox2001.github.io/main/static/media/background.931adee6dd02c4f4e293.jpg",
-    "index.html": "/Paradox2001.github.io/main/index.html",
-    "main.c66e4d3d.css.map": "/Paradox2001.github.io/main/static/css/main.c66e4d3d.css.map",
-    "main.efdc6cb7.js.map": "/Paradox2001.github.io/main/static/js/main.efdc6cb7.js.map"
+    "main.css": "/main/static/css/main.957ea836.css",
+    "main.js": "/main/static/js/main.efdc6cb7.js",
+    "static/media/background.jpg": "/main/static/media/background.931adee6dd02c4f4e293.jpg",
+    "index.html": "/main/index.html",
+    "main.957ea836.css.map": "/main/static/css/main.957ea836.css.map",
+    "main.efdc6cb7.js.map": "/main/static/js/main.efdc6cb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.c66e4d3d.css",
+    "static/css/main.957ea836.css",
     "static/js/main.efdc6cb7.js"
   ]
 }
